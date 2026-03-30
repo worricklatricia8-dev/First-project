@@ -1,3 +1,24 @@
+## Office Cleaning Company Website
+
+This is a professional website built for **The Iron Maiden Cleaning Solutions**, an office cleaning service company based in Dallas, TX.
+
+### Features
+- Professional service overview
+- Service packages and pricing
+- Contact information and booking form
+- Responsive design for mobile and desktop
+- Easy-to-navigate layout for customers
+
+### Technologies Used
+- **Frontend:** HTML, CSS, JavaScript
+- **Design:** Clean, professional aesthetic
+- **Hosting:** [Accessible here](https://msha.ke/theironmaidencleaningsolutions)
+
+### Project Goals
+- Showcase cleaning services professionally
+- Make it easy for customers to request quotes
+- Provide clear information about services offered
+- Build an online presence for the business
 
 About Me
 I'm a programmer from Dallas, TX (originally from SC). I started with C (C+) and progressed into C++ (CC++). Currently learning HTML and machine learning while building practical projects that combine low-level systems work with web and ML components.
